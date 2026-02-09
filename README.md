@@ -80,7 +80,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/Middle-ru.png" width="280px" hspace="10px" alt="Сертификат»">](file:///C:/Users/cgrit/Downloads/Telegram%20Desktop/certifikat.png)
+[<img src="/Middle-ru.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/cgritsay22-star/cgritsay22-star/refs/heads/main/certifikat.png)
 
 <br>
 <br>
